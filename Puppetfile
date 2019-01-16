@@ -8,4 +8,3 @@ mod 'mediawiki',
   :commit => 'b18f414299c3995a741f3fce6c6a6b5d913e2be7'
 mod 'puppetlabs/vcsrepo',                 :latest
 mod 'puppetlabs/java',                    '3.2.0'
-mod 'puppetlabs/postgresql',              '5.11.0'
